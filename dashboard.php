@@ -17,10 +17,11 @@ if (!isset($_SESSION['usuario'])) {
 <body>
   <header>
     <div class="container">
-      <div class="logo">
-        <img src=./assets/img/logo_brasa-removebg-preview.png alt="Logo Brasa-Store" />
-        <h1>🔥 Brasa-Store 🔥</h1>
-      </div>
+    <div class="logo">
+      <img src="./assets/img/download.jpg" alt="Logo Brasa-Store" />
+      <h1>Brasa-Store</h1>
+    </div>
+
       <nav>
         <a href="#">Início</a>
         <a href="#">Produtos</a>
@@ -41,13 +42,19 @@ if (!isset($_SESSION['usuario'])) {
     <h2>Pimentas em destaque</h2>
     <div class="cards">
       <div class="card">
-        <img src="https://cdn.pixabay.com/photo/2017/01/20/15/06/chili-1991186_960_720.jpg" alt="Pimenta Vermelha" />
-        <h3>Pimenta Carolina Reaper</h3>
-        <p>A mais ardida do mundo. Para os fortes!</p>
-        <button>Comprar</button>
+        <img src="./assets/img/carolina.jpg" alt="Molho carolina" />
+        <h3>Molho Carolina Reaper</h3>
+        <p>Molho feito com a primenta mais ardida do mundo! Pronto para queimar com seu sabor único.</p>
+        <button>Comprar!</button>
       </div>
       <div class="card">
-        <img src="https://cdn.pixabay.com/photo/2017/01/20/15/06/chili-1991190_960_720.jpg" alt="Molho de Pimenta" />
+        <img src="./assets/img/black-fire.jpg" alt="Pimenta Vermelha" />
+        <h3>Molho Carolina Reaper</h3>
+        <p>Molho feito com a primenta mais ardida do mundo! Pronto para queimar com seu sabor único.</p>
+        <button>Comprar!</button>
+      </div>
+      <div class="card">
+        <img src="./assets/img/carolina pura.jpg" alt="Molho de Pimenta" />
         <h3>Molho Infernal</h3>
         <p>Explosão de sabor e calor em cada gota.</p>
         <button>Comprar</button>
