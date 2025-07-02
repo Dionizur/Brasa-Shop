@@ -197,6 +197,48 @@ footer {
   margin-top: 2rem;
   font-size: 0.9rem;
 }
+.tabela-carrinho {
+  width: 100%;
+  max-width: 900px;
+  margin: 0 auto 2rem auto;
+  border-collapse: collapse;
+}
+
+.tabela-carrinho th, .tabela-carrinho td {
+  border: 1px solid #ffcccc;
+  padding: 1rem;
+  text-align: center;
+}
+
+.tabela-carrinho th {
+  background-color: #ffe5e5;
+  color: #b30000;
+}
+
+.total-carrinho {
+  text-align: center;
+}
+
+.total-carrinho h3 {
+  color: #c70000;
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+.total-carrinho .btn {
+  background-color: #ff0000;
+  color: white;
+  padding: 0.8rem 2rem;
+  border: none;
+  border-radius: 8px;
+  font-weight: bold;
+  transition: background 0.3s;
+}
+
+.total-carrinho .btn:hover {
+  background-color: #cc0000;
+}
+
 
 /* Responsividade básica */
 @media (max-width: 768px) {

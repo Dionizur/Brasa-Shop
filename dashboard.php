@@ -50,7 +50,7 @@ if (!isset($_SESSION['usuario'])) {
       <div class="card">
         <img src="./assets/img/black-fire.jpg" alt="Pimenta Vermelha" />
         <h3>Molho Carolina Reaper</h3>
-        <p>Molho feito com a primenta mais ardida do mundo! Pronto para queimar com seu sabor único.</p>
+        <p>Molho vindo das mais profundezad da terra, pronto para te surpreender com sabor e ardencia que não se encontra em outros lugares</p>
         <button>Comprar!</button>
       </div>
       <div class="card">
