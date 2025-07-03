@@ -1,0 +1,183 @@
+[
+    {
+      "nome": "Molho Carolina Reaper",
+      "descricao": "Molho feito com a pimenta mais ardida do mundo! Pronto para queimar com seu sabor único.",
+      "imagem": "../assets/img/carolina.jpg",
+      "categoria": "Molhos"
+    },
+    {
+      "nome": "Black-fire",
+      "descricao": "Molho vindo das profundezas da terra, pronto para surpreender com sabor e ardência intensa.",
+      "imagem": "../assets/img/black-fire.jpg",
+      "categoria": "Molhos"
+    },
+    {
+      "nome": "Molho Infernal",
+      "descricao": "Explosão de sabor e calor em cada gota.",
+      "imagem": "../assets/img/carolina pura.jpg",
+      "categoria": "Molhos"
+    },
+    {
+      "nome": "Fogo do Cerrado",
+      "descricao": "Mistura exótica de pimentas brasileiras com toque defumado.",
+      "imagem": "../assets/img/cerrado.jpg",
+      "categoria": "Molhos"
+    },
+    {
+      "nome": "Lágrimas do Dragão",
+      "descricao": "Feito para os verdadeiros guerreiros do ardor. Use com moderação!",
+      "imagem": "../assets/img/dragon.jpg",
+      "categoria": "Molhos"
+    },
+    {
+      "nome": "Molho Vulcão Ativo",
+      "descricao": "Feito com pimenta habanero e especiarias vulcânicas.",
+      "imagem": "../assets/img/molho-vulcao.jpg",
+      "categoria": "Molhos"
+    },
+    {
+      "nome": "Molho do Apocalipse",
+      "descricao": "Tão ardido que você vai ver o fim do mundo em uma gota.",
+      "imagem": "../assets/img/apocalipse.jpg",
+      "categoria": "Molhos"
+    },
+    {
+      "nome": "Molho Brasa Mexicana",
+      "descricao": "Sabor e fogo inspirados nas cantinas do México.",
+      "imagem": "../assets/img/mexicano.jpg",
+      "categoria": "Molhos"
+    },
+    {
+      "nome": "Molho Chipotle Ardente",
+      "descricao": "Molho defumado com pimenta chipotle e alho negro.",
+      "imagem": "../assets/img/chipotle.jpg",
+      "categoria": "Molhos"
+    },
+    {
+      "nome": "Molho Fantasma",
+      "descricao": "Preparado com Bhut Jolokia para um ardor sobrenatural.",
+      "imagem": "../assets/img/ghost.jpg",
+      "categoria": "Molhos"
+    },
+    {
+      "nome": "Pimenta Caiena em Pó",
+      "descricao": "Ideal para dar um toque picante em qualquer receita.",
+      "imagem": "../assets/img/caiena.jpg",
+      "categoria": "Pimentas em Pó"
+    },
+    {
+      "nome": "Pimenta Chipotle em Pó",
+      "descricao": "Defumada e intensa, perfeita para carnes e molhos.",
+      "imagem": "../assets/img/chipotle-powder.jpg",
+      "categoria": "Pimentas em Pó"
+    },
+    {
+      "nome": "Pimenta Jalapeño em Pó",
+      "descricao": "Sabor suave e levemente ardido, ideal para tacos.",
+      "imagem": "../assets/img/jalapeno.jpg",
+      "categoria": "Pimentas em Pó"
+    },
+    {
+      "nome": "Pimenta Habanero em Pó",
+      "descricao": "Muito ardida e aromática, perfeita para quem gosta de fogo.",
+      "imagem": "../assets/img/habanero.jpg",
+      "categoria": "Pimentas em Pó"
+    },
+    {
+      "nome": "Pimenta do Reino Preta",
+      "descricao": "Clássica e essencial em qualquer cozinha.",
+      "imagem": "../assets/img/do-reino.jpg",
+      "categoria": "Pimentas em Pó"
+    },
+    {
+      "nome": "Mix de Pimentas em Pó",
+      "descricao": "Combinação equilibrada de várias pimentas secas.",
+      "imagem": "../assets/img/mix.jpg",
+      "categoria": "Pimentas em Pó"
+    },
+    {
+      "nome": "Pimenta Malagueta em Pó",
+      "descricao": "Muito popular no Brasil, com sabor intenso.",
+      "imagem": "../assets/img/malagueta.jpg",
+      "categoria": "Pimentas em Pó"
+    },
+    {
+      "nome": "Pimenta Biquinho em Pó",
+      "descricao": "Saborosa e quase sem ardência, ideal para molhos doces.",
+      "imagem": "../assets/img/biquinho.jpg",
+      "categoria": "Pimentas em Pó"
+    },
+    {
+      "nome": "Páprica Picante",
+      "descricao": "Pimentão defumado com um toque de ardência.",
+      "imagem": "../assets/img/paprica.jpg",
+      "categoria": "Pimentas em Pó"
+    },
+    {
+      "nome": "Chili Powder Texano",
+      "descricao": "Mistura tradicional tex-mex para feijoadas e tacos.",
+      "imagem": "../assets/img/chili-powder.jpg",
+      "categoria": "Pimentas em Pó"
+    },
+    {
+      "nome": "Sementes de Carolina Reaper",
+      "descricao": "Cultive a pimenta mais ardida do planeta!",
+      "imagem": "../assets/img/seed-carolina.jpg",
+      "categoria": "Sementes"
+    },
+    {
+      "nome": "Sementes de Bhut Jolokia",
+      "descricao": "Para quem quer plantar o terror em casa.",
+      "imagem": "../assets/img/seed-jolokia.jpg",
+      "categoria": "Sementes"
+    },
+    {
+      "nome": "Sementes de Jalapeño",
+      "descricao": "Ideal para climas tropicais. Ardência suave.",
+      "imagem": "../assets/img/seed-jalapeno.jpg",
+      "categoria": "Sementes"
+    },
+    {
+      "nome": "Sementes de Habanero",
+      "descricao": "Uma das pimentas mais picantes e populares.",
+      "imagem": "../assets/img/seed-habanero.jpg",
+      "categoria": "Sementes"
+    },
+    {
+      "nome": "Sementes de Malagueta",
+      "descricao": "A pimenta brasileira por excelência.",
+      "imagem": "../assets/img/seed-malagueta.jpg",
+      "categoria": "Sementes"
+    },
+    {
+      "nome": "Sementes de Pimenta do Reino",
+      "descricao": "Perfeita para quem gosta de moer a própria.",
+      "imagem": "../assets/img/seed-do-reino.jpg",
+      "categoria": "Sementes"
+    },
+    {
+      "nome": "Sementes de Pimenta Cambuci",
+      "descricao": "Sabor doce e levemente picante. Ótima para rechear.",
+      "imagem": "../assets/img/seed-cambuci.jpg",
+      "categoria": "Sementes"
+    },
+    {
+      "nome": "Sementes de Pimenta Dedo-de-Moça",
+      "descricao": "Muito usada na culinária brasileira.",
+      "imagem": "../assets/img/seed-dedo.jpg",
+      "categoria": "Sementes"
+    },
+    {
+      "nome": "Sementes de Pimenta Biquinho",
+      "descricao": "Excelente para molhos e conservas suaves.",
+      "imagem": "../assets/img/seed-biquinho.jpg",
+      "categoria": "Sementes"
+    },
+    {
+      "nome": "Kit com 5 tipos de sementes",
+      "descricao": "Pacote promocional com 5 variedades ardentes.",
+      "imagem": "../assets/img/kit-sementes.jpg",
+      "categoria": "Sementes"
+    }
+  ]
+  
