@@ -24,21 +24,21 @@ $total = 0;
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Carrinho | Brasa-Store</title>
-  <link rel="stylesheet" href="style.css" />
+  <link rel="stylesheet" href="../css/style.css" />
 </head>
 <body>
   <header>
     <div class="container">
       <div class="logo">
-        <img src="./assets/img/download.jpg" alt="Logo Brasa-Store" />
+        <img src="../assets/img/download.jpg" alt="Logo Brasa-Store" />
         <h1>Brasa-Store</h1>
       </div>
       <nav>
-        <a href="index.php">Início</a>
-        <a href="#">Produtos</a>
+        <a href="home.php">Início</a>
+        <a href="produtos.php">Produtos</a>
         <a href="carrinho.php">Carrinho</a>
-        <a href="#">Contato</a>
-        <span class="usuario">Olá, <?php echo $_SESSION['usuario']; ?> | <a href="logout.php">Sair</a></span>
+        <a href="https://github.com/Dionizur">Contato</a>
+        <span class="usuario">Olá, <?php echo $_SESSION['usuario']; ?> | <a href="../index.php">Sair</a></span>
       </nav>
     </div>
   </header>

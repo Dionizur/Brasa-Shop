@@ -25,6 +25,7 @@ if (!isset($_SESSION['usuario'])) {
       <nav>
         <a href="home.php">Início</a>
         <a href="carrinho.php">Carrinho</a>
+        <a href="produtos.php">Produtos</a>
         <a href="https://github.com/Dionizur">Contato</a>
         <span class="usuario">Bem-vindo, <?php echo $_SESSION['usuario']; ?> | <a href="logout.php">Sair</a></span>
       </nav>

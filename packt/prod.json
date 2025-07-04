@@ -20,37 +20,37 @@
     {
       "nome": "Fogo do Cerrado",
       "descricao": "Mistura exótica de pimentas brasileiras com toque defumado.",
-      "imagem": "../assets/img/cerrado.jpg",
+      "imagem": "../assets/img/fogo do cerrado.jpg",
       "categoria": "Molhos"
     },
     {
       "nome": "Lágrimas do Dragão",
       "descricao": "Feito para os verdadeiros guerreiros do ardor. Use com moderação!",
-      "imagem": "../assets/img/dragon.jpg",
+      "imagem": "../assets/img/pimenta npc 1.jpg",
       "categoria": "Molhos"
     },
     {
-      "nome": "Molho Vulcão Ativo",
+      "nome": "2 Pedro 3:10",
       "descricao": "Feito com pimenta habanero e especiarias vulcânicas.",
-      "imagem": "../assets/img/molho-vulcao.jpg",
+      "imagem": "../assets/img/pimenta npc 2.jpg",
       "categoria": "Molhos"
     },
     {
       "nome": "Molho do Apocalipse",
       "descricao": "Tão ardido que você vai ver o fim do mundo em uma gota.",
-      "imagem": "../assets/img/apocalipse.jpg",
+      "imagem": "../assets/img/pimenta npc 3.png",
       "categoria": "Molhos"
     },
     {
       "nome": "Molho Brasa Mexicana",
       "descricao": "Sabor e fogo inspirados nas cantinas do México.",
-      "imagem": "../assets/img/mexicano.jpg",
+      "imagem": "../assets/img/pimenta npc 4.jpg",
       "categoria": "Molhos"
     },
     {
       "nome": "Molho Chipotle Ardente",
       "descricao": "Molho defumado com pimenta chipotle e alho negro.",
-      "imagem": "../assets/img/chipotle.jpg",
+      "imagem": "../assets/img/pimenta npc 5.jpg",
       "categoria": "Molhos"
     },
     {
